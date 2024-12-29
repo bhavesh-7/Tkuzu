@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Tkuzu</string>
+    <string name="sign_in_with_phone">Sing in with phone\n</string>
+    <string name="sign_in_with_google">Sign in with Google</string>
+    <string name="phone_number">Phone number\n</string>
+    <string name="continue_text">Continue</string>
+    <string name="register_text">Register\n</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="menu_exit">Sing out</string>
+    <string name="permission_required">Permission for location required</string>
+    <string name="drivers_not_found">Drivers not found\n</string>
+    <string name="key_not_found">Key not found</string>
+    <string name="api_key">API HERE</string>
+    <string name="welcome">Good afternoon</string>
+    <string name="choose_place">Choose a saved place</string>
+    <string name="city_name_not_found">City not found</string>
+    <string name="title_activity_request_driver">RequestDriverActivity</string>
+    <string name="pay_by_cash">Pay by Cash</string>
+    <string name="confirm_tkuzu">Confirm Tkuzu</string>
+    <string name="confirm_pickup">Confirm pickup</string>
+    <string name="meet_driver_here">Meet driver here</string>
+    <string name="fiding_your_rider">Finding your ride</string>
+    <string name="token_not_found">Token not found</string>
+    <string name="send_request_to_driver_faield">Send request to driver failed</string>
+</resources>

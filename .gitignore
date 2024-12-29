@@ -1,0 +1,56 @@
+# Android related
+*.iml
+.gradle/
+build/
+app/build/
+captures/
+.externalNativeBuild/
+
+# Keystore files
+*.keystore
+*.jks
+
+# Local configuration file (SDK location, etc.)
+local.properties
+
+# Logs
+*.log
+
+# IntelliJ/Android Studio specific
+.idea/
+misc.xml
+deploymentTargetDropDown.xml
+.renderScript/
+navigation.json
+*.ipr
+*.iws
+*.bak
+*.swp
+
+# Gradle specific
+.gradle/
+build/
+!gradle-wrapper.jar
+gradle-app.setting
+gradle.properties
+
+# Generated files
+build/
+output.json
+*.apk
+*.aar
+*.class
+*.dex
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Node.js dependencies (if using)
+node_modules/
+
+# API Keys and sensitive files
+**/secrets.properties
+**/api_keys.json
+.env
+

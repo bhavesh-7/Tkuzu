@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "319184049863",
+    "firebase_url": "https://uber-clone-testx-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "uber-clone-testx",
+    "storage_bucket": "uber-clone-testx.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319184049863:android:d1a620db2c965f4c8390e2",
+        "android_client_info": {
+          "package_name": "com.example.tkuzu"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319184049863-99gullkjrnc2972ca2qgqctqtc4djuqr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "API HERE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319184049863-99gullkjrnc2972ca2qgqctqtc4djuqr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319184049863:android:79ac32a348f4e2778390e2",
+        "android_client_info": {
+          "package_name": "com.example.tkuzudriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319184049863-99gullkjrnc2972ca2qgqctqtc4djuqr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "Api here"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319184049863-99gullkjrnc2972ca2qgqctqtc4djuqr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
